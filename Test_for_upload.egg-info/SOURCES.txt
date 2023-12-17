@@ -1,0 +1,7 @@
+README.md
+setup.py
+Test_for_upload.egg-info/PKG-INFO
+Test_for_upload.egg-info/SOURCES.txt
+Test_for_upload.egg-info/dependency_links.txt
+Test_for_upload.egg-info/top_level.txt
+src/__init__.py
